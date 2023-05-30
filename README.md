@@ -5,10 +5,7 @@
 
 ### <div align="center">I'm Eymen, a information security technology and computer programming student 👨‍💻 working freelance since 2021 🚀</div>  
   
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
-
 - 🌱 I’m currently learning Machine Learning and Deep Learning  
   
 
